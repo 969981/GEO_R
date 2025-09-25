@@ -1,0 +1,29 @@
+{
+  "data_sync_system": {
+    "max_cache_size": 100000,
+    "cache_directory": "./cache_data",
+    "cache_retention_days": 7,
+    "auto_save_interval": 300,
+    "cleanup_interval": 3600,
+    "load_recent_days": 3,
+    "log_level": "INFO",
+    "log_file": "data_sync.log"
+  },
+  "database": {
+    "type": "sqlite",
+    "connection_string": "./cache_data/production.db",
+    "connection_pool_size": 10,
+    "connection_timeout": 30
+  },
+  "monitoring": {
+    "enable_stats_logging": true,
+    "stats_log_interval": 300,
+    "memory_threshold_mb": 1000,
+    "cache_hit_rate_threshold": 0.8
+  },
+  "performance": {
+    "async_operations": true,
+    "batch_size": 1000,
+    "concurrent_workers": 4
+  }
+}

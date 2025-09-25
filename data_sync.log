@@ -1,0 +1,24 @@
+2025-09-25 04:34:51,620 - DataSyncSystem - INFO - Total loaded 0 records from recent cache files
+2025-09-25 04:34:51,620 - DataSyncSystem - INFO - Background maintenance thread started
+2025-09-25 04:34:51,621 - DataSyncSystem - INFO - Data synchronization system initialized
+2025-09-25 04:34:51,621 - DataSyncSystem - INFO - Performing cleanup...
+2025-09-25 04:34:51,621 - DataSyncSystem - INFO - Saved cache to test_cache/cache_2025-09-25.json (0 records)
+2025-09-25 04:34:51,621 - DataSyncSystem - ERROR - Error saving cache: [Errno 2] No such file or directory: 'test_cache/cache_2025-09-25.tmp' -> 'test_cache/cache_2025-09-25.json'
+2025-09-25 04:34:51,621 - DataSyncSystem - INFO - Cleanup completed
+2025-09-25 04:35:20,157 - DataSyncSystem - ERROR - Error loading recent caches: object of type 'int' has no len()
+2025-09-25 04:35:20,158 - DataSyncSystem - INFO - Background maintenance thread started
+2025-09-25 04:35:20,158 - DataSyncSystem - INFO - Data synchronization system initialized
+2025-09-25 04:35:20,158 - DataSyncSystem - INFO - Saved cache to test_cache/cache_2025-09-25.json (0 records)
+2025-09-25 04:38:31,703 - DataSyncSystem - INFO - Loaded 0 records from test_cache/cache_2025-09-25.json
+2025-09-25 04:38:31,703 - DataSyncSystem - INFO - Total loaded 0 records from recent cache files
+2025-09-25 04:38:31,703 - DataSyncSystem - INFO - Background maintenance thread started
+2025-09-25 04:38:31,703 - DataSyncSystem - INFO - Data synchronization system initialized
+2025-09-25 04:38:31,704 - DataSyncSystem - INFO - Saved cache to test_cache/cache_2025-09-25.json (1 records)
+2025-09-25 04:41:17,765 - DataSyncSystem - INFO - Loaded 0 records from test_cache/cache_2025-09-25.json
+2025-09-25 04:41:17,765 - DataSyncSystem - INFO - Total loaded 0 records from recent cache files
+2025-09-25 04:41:17,765 - DataSyncSystem - INFO - Background maintenance thread started
+2025-09-25 04:41:17,765 - DataSyncSystem - INFO - Data synchronization system initialized
+2025-09-25 04:41:17,766 - DataSyncSystem - INFO - Saved cache to test_cache/cache_2025-09-25.json (2 records)
+2025-09-25 04:44:36,127 - DataSyncSystem - INFO - Loaded 0 records from test_cache/cache_2025-09-25.json
+2025-09-25 04:44:36,127 - DataSyncSystem - INFO - Total loaded 0 records from recent cache files
+2025-09-25 04:44:36,127 - DataSyncSystem - INFO - Data synchronization system initialized

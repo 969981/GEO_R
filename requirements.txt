@@ -1,0 +1,19 @@
+# Data Synchronization System Requirements
+
+# Core dependencies
+psutil>=5.8.0
+
+# Optional dependencies for enhanced functionality
+# asyncpg>=0.25.0          # For PostgreSQL async support
+# redis>=4.0.0             # For Redis caching backend
+# pymongo>=4.0.0           # For MongoDB support
+# sqlalchemy>=1.4.0        # For advanced ORM features
+# fastapi>=0.70.0          # For REST API interface
+# uvicorn>=0.15.0          # For ASGI server
+
+# Development dependencies (optional)
+# pytest>=6.0.0
+# pytest-asyncio>=0.20.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.910
