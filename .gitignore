@@ -1,0 +1,52 @@
+# Data Synchronization System - Generated Files
+cache_data/
+demo_cache/
+test_cache/
+perf_cache/
+test_simple/
+perf_demo/
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Cache files
+cache_*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Logs
+*.log
+data_sync.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
